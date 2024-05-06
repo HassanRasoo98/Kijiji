@@ -1,6 +1,8 @@
 fastapi
 uvicorn
+pandas
 selenium
 webdriver-manager
 gspread
 fuzzywuzzy
+python-Levenshtein
