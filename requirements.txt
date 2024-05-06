@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+selenium
+webdriver-manager
+gspread
+fuzzywuzzy
